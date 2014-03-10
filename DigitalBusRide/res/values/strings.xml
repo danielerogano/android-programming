@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Digital Bus Ride</string>
+    <string name="action_settings">Settings</string>
+    <string name="help">Help</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="start">Start</string>
+    <string name="stop">Stop</string>
+    <string name="busstop">Fermata</string>
+    <string name="restart">Riparti</string>
+    <string name="carico">Carico a bordo</string>
+
+</resources>

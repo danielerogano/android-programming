@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?><LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center"
+    android:orientation="vertical" >
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Menù Principale"
+        android:gravity="center"
+        android:textAppearance="?android:attr/textAppearanceLarge" />
+    <View
+             android:layout_width="fill_parent"
+             android:layout_height="4dp"
+             android:background="@color/black"/>
+
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+
+        <TableRow
+            android:id="@+id/tableRow1"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center" >
+
+            <ImageView
+                android:id="@+id/newride"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:src="@drawable/newride" />
+
+            <TextView
+                android:id="@+id/textView1"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Nuova Corsa"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        </TableRow>
+        
+            <View
+             android:layout_width="fill_parent"
+             android:layout_height="4dp"
+             android:background="@color/black"/>
+
+        <TableRow
+            android:id="@+id/tableRow2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center" >
+
+            <ImageView
+                android:id="@+id/list"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:src="@drawable/list" />
+
+            <TextView
+                android:id="@+id/textView2"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Lista corse"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        </TableRow>
+        
+    <View
+             android:layout_width="fill_parent"
+             android:layout_height="4dp"
+             android:background="@color/black"/>
+        <TableRow
+            android:id="@+id/tableRow3"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:gravity="center" >
+
+            <ImageView
+                android:id="@+id/map"
+                android:layout_width="100dp"
+                android:layout_height="100dp"
+                android:src="@drawable/map2" />
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Mappa corse"
+                android:textAppearance="?android:attr/textAppearanceLarge" />
+
+        </TableRow>
+        
+            <View
+             android:layout_width="fill_parent"
+             android:layout_height="4dp"
+             android:background="@color/black"/>
+
+    </TableLayout>
+
+</LinearLayout>

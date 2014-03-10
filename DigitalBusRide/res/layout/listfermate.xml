@@ -1,0 +1,25 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical" >
+        
+        <TextView android:id="@+id/output"
+                android:background="#758AA7" 
+                android:layout_height="wrap_content"
+                android:padding="1px"
+                android:textColor="#ffffff"
+                android:text="Select : " android:layout_width="fill_parent" />
+
+        <Button
+            android:id="@+id/button"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Elimina Linea" />
+
+        <ListView
+            android:id="@android:id/list"
+            android:layout_width="match_parent"
+            android:layout_height="399dp" >
+        </ListView>
+    
+    </LinearLayout> 
