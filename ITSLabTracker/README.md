@@ -3,10 +3,7 @@ itrackmygps-android
 
 ![Splash Screen](screenshots/overview.jpg)
 
-For more info, see <http://itrackmygps.com>
-
-Want to become a tester?
-[Google Plus Community "itrackmygps - testers"](https://plus.google.com/communities/100298062955164933715)
+For more info, see <http://160.97.53.150.com>
 
 # Features
 
@@ -16,13 +13,11 @@ Want to become a tester?
 
 
 # Prerequisites
-- IntelliJ Idea CE 133.124
+- Eclipse + ADT
 - Android Platform 15
-- Genymotion 1.3.1
 
 # Instructions
 
-- Clone the project `git clone git@github.com:rdeguzman/trackble-android.git`
 - Get a google maps API Key.
 - Copy `api_key.xml` to `res/values`
 
