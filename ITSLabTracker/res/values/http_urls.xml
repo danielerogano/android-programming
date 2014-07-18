@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="NEW_LOCATION_URL">http://160.97.53.150:8080/location</string>
+    <string name="REGISTER_URL">http://160.97.53.150:8080/register</string>
+    <string name="LOGIN_URL">http://160.97.53.150:8080/login</string>
+    <string name="ADS_URL">http://www.mytravel-asia.com/mobile/adsense</string>
+    <string name="TRACK_URL">http://160.97.53.150:8080/access?u=</string>
+</resources>

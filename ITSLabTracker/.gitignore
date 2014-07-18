@@ -1,0 +1,25 @@
+.DS_Store
+.svn
+*~
+.*.swp
+
+#Android
+.metadata
+*.class
+*.dex
+*.iws
+bin/
+gen/
+out/
+local.properties
+
+#IntellJ Idea
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/copyright/
+#.idea/misc.xml
+proguard_logs/
+res/values/api_keys.xml
+
+#Application
+docs/screenshots
