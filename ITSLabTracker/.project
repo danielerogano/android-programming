@@ -30,4 +30,11 @@
 		<nature>com.android.ide.eclipse.adt.AndroidNature</nature>
 		<nature>org.eclipse.jdt.core.javanature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>screenshots/overview.jpg</name>
+			<type>1</type>
+			<location>/home/psych/git/android-programming/overview.jpg</location>
+		</link>
+	</linkedResources>
 </projectDescription>
