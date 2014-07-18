@@ -3,7 +3,7 @@ itrackmygps-android
 
 ![Splash Screen](screenshots/overview.jpg)
 
-For more info, see <http://160.97.53.150.com>
+For more info, see <http://160.97.53.150/home>
 
 # Features
 
