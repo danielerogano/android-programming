@@ -1,7 +1,7 @@
 ITSLabTracker
 =========
 
-![Splash Screen](screenshots/overview2.jpg)
+![Splash Screen](screenshots/overview.jpg)
 
 For more info, see <http://160.97.53.150/home>
 
