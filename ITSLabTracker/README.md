@@ -1,4 +1,4 @@
-itrackmygps-android
+ITSLabTracker
 =========
 
 ![Splash Screen](screenshots/overview.jpg)
